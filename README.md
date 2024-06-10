@@ -5,7 +5,6 @@ This repository contains various implementations of movie recommendation systems
 ## Authors
 
 - Laamari Youssef
-- 
 ## Supervisor
 
 - Prof. Hdiioud Ferdouss
